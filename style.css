@@ -21,9 +21,13 @@ img{
 
   margin-left: 12rem;
   line-height: 1.4;
+  margin-bottom: 5rem;
 
  }
  .card{
      margin: 0 5rem ;
+ }
+ p{
+     width: 80%;
  }
 }
